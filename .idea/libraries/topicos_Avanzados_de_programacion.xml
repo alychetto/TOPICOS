@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="topicos Avanzados de programacion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Impuestos.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Hola Mundo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Formulario.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
